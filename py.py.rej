@@ -1,0 +1,13 @@
+diff a/py.py b/py.py	(rejected hunks)
+@@ -7,4 +7,8 @@
+ 
+ def handan(number):
+ 	if(number > 30):
+-		print("正解！！！（？）")
+\ No newline at end of file
++		print("正解！！！（？）")
++	else:
++		printf("(*´з`)")
++
++handan(a)
+\ No newline at end of file
