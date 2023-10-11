@@ -10,3 +10,5 @@ def handan(number):
 		print("正解！！！（？）")
 	elif(number > 0):
 		print("(*´з`)")
+
+print("ｺﾝﾆﾁﾊｯ!!!")
