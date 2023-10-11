@@ -3,10 +3,7 @@
 print("hello, world!")
 
 a = 31
-c = 30
+b = 54
 
-def handan(number):
-	if(number > 30):
-		print("正解！！！（？）")
-	elif(number > 0):
-		print("(*´з`)")
+for i in range(199):
+	print("うぇーい(最大級の煽り)")
